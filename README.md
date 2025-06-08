@@ -11,11 +11,11 @@ Repositori ini berisi implementasi algoritma **Breadth-First Search (BFS)** dan 
 
 | File                  | Deskripsi                                                       |
 |-----------------------|-----------------------------------------------------------------|
-| `AdjencyMatriks.java` | Berisi struktur data graf menggunakan Adjency Matriks.     |
+| `AdjencyMatriks.java` | Berisi struktur data graf menggunakan Adjency Matriks.          |
 | `BFSTraversal.java`   | Mengimplementasikan algoritma BFS untuk traversal graf.         |
 | `DFSTraversal.java`   | Mengimplementasikan algoritma DFS untuk traversal graf.         |
 
-## 🛠️ Cara Menjalankan
+## Cara Menjalankan
 1. Kompilasi semua file Java:
    ```bash
    javac *.java
